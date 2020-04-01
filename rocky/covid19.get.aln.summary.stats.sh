@@ -1,4 +1,7 @@
 #!/bin/bash
+
+#This script is designed to obtain summary stats from COVID-19 alignments
+
 #Extract samtools stats from each file in parallel
 outputdir="/media/dstore/renzo/samtools_stats"
 rm -f $outputdir/samtools.stats.commands.txt
