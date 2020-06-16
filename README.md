@@ -31,7 +31,7 @@ python ./scripts/PACIFIC.py -i ./testdata/testdata.fa -m ./model/pacific.01.paci
 
 ## System requirements
 - Python 3.X+ (python.org/) with the following libraries:
-    - Bio (v.)
+    - biopython (v.)
     - sklearn (v.)
     - numPy (v.)
     - keras (v.)
